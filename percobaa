@@ -1,0 +1,53 @@
+<body>
+
+
+        <script type="text/javascript">
+            atOptions = {
+                'key' : '671f6300310b0b585a7f39a81ef37702',
+                'format' : 'iframe',
+                'height' : 90,
+                'width' : 728,
+                'params' : {}
+            };
+            document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplayformat.com/671f6300310b0b585a7f39a81ef37702/invoke.js"></scr' + 'ipt>');
+        </script><iframe allowtransparency="true" scrolling="no" frameborder="0" framespacing="0" width="728" height="90" src="about:blank"></iframe><script type="text/javascript" src="https://www.profitabledisplayformat.com/671f6300310b0b585a7f39a81ef37702/invoke.js" class="atScript671f6300310b0b585a7f39a81ef37702_0"></script>
+
+        <div class="m-t-md position-ref full-height">
+            <div class="content">
+                <a href="/" class="links" style="font-size:25px">CYRAX Mod</a><br>
+                <br>
+                <div class="left">
+                    Subscribe to my telegram channel to get updates and free key:<br>
+                    <a href="https://t.me/CyraxxMods">https://t.me/CyraxxMods</a><br><br>
+                    <hr>
+                    CyraxMod latest version v1:<br>
+                    <a href="https://t.me/CyraxxMods/191">DOWNLOAD LINK</a><br><br>
+                    <hr>
+                    Register device:<br>
+                    <a href="https://cyrax.info/cyraxmod/registerDevice">https://cyrax.info/cyraxmod/registerDevice</a><br><br>
+                </div>
+
+
+            </div>
+        </div>
+    
+
+
+
+<script>
+    function copy() {
+    /* Get the text field */
+    var copyText = document.getElementById("myInput");
+
+    /* Select the text field */
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+    /* Copy the text inside the text field */
+    //navigator.clipboard.writeText(copyText.value);
+    document.execCommand("copy");
+    /* Alert the copied text */
+    alert("Copied the text: " + copyText.value);
+    }
+</script>
+</body>
